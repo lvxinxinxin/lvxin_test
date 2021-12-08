@@ -1,7 +1,8 @@
 This is test file
 master
+12345
 This is two file
 1
-3
+i3
 4
 5
